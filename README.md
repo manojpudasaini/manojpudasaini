@@ -1,5 +1,7 @@
 ### Hi there 👋
 ## I am Manoj Pudasaini
+### Software Engineer at <img src="https://avatars.githubusercontent.com/u/50974738?s=25&v=4" alt="wesionary team"/> [wesionaryTeam](https://github.com/wesionaryTEAM)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojpudasaini&label=Profile%20views&color=0e75b6&style=flat" alt="manojpudasaini" /> </p>
 
 <!--
