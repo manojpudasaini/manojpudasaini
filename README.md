@@ -16,7 +16,7 @@
 
 <h1 align="center"> Hi there 👋 </h1> 
 
-<p align="center">  I'm a Software Developer currently working with WesionaryTEAM. I have been learning and working on front end web development for more than two years. This year, I'm studying to become a Full stack developer. </p>
+<p align="center">  I'm a Software Developer currently working with wesionaryTEAM. I have been learning and working on front end web development for more than two years. This year, I'm studying to become a Full stack developer. </p>
 
 <p align="center">Hope to get better and better each day. Feel free to reach me always. Looking forward to exchange knowledge.</p>
 
