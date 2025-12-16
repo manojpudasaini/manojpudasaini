@@ -40,10 +40,9 @@
     <img alt="Manoj-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img alt="Manoj-tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
   </div>
-
-  <h3>I'm currently learning</h3>  
-    <img alt="Manoj-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-
+ 
+ <h3>I'm currently learning</h3>
+ <span>✨ balance, depth, and simplicity ✨</span>
   <h3>Tools I've used</h3>
     <img alt="Manoj-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img alt="Manoj-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -61,4 +60,4 @@
 
  <div align="center">
    <img src="https://komarev.com/ghpvc/?username=manojpudasaini&label=Profile%20views&color=0e75b6&style=flat" alt="manojpudasaini-github-view-status" /> 
-</div>
+ </div>
