@@ -16,7 +16,7 @@
 
 <h1 align="center"> Hi there 👋 </h1> 
 
-<p align="center">  I'm a Software Developer currently working with wesionaryTEAM. </p>
+<p align="center">  I'm a Software Developer from Nepal </p>
 
 <p align="center">Hope to get better and better each day. Feel free to reach me always. Looking forward to exchange knowledge.</p>
 
